@@ -1,0 +1,4 @@
+h1{color: antiquewhite;}
+        .text1 {text-decoration: underline; font-size: 4vw; transition: all 3s linear;}
+        .text1:hover { font-size: 8vw; color: rgb(187, 206, 174); transition: all 3s linear;}
+        #link_a{text-decoration: none;font-size: 40px; color: blanchedalmond; width: 100%;}
