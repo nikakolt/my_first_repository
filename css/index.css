@@ -1,0 +1,12 @@
+.div_container{width: 10%; height: 10%; background: rgb(153, 162, 153); border: 1px solid blue; margin-left: 5%; padding-top: 2%;}
+h1, h2, h3 { color: black;  font-size: 4vw; margin: 3% auto; width: 70%;}
+nav{ overflow-y: scroll; background: #f9f9f9; width: 200px; position: fixed;  top: 45px; left: 5px; padding: 10px; box-sizing: border-box; opacity: 0.3; transition: all 0.5s ease; height: 90vh;  }
+nav:hover{opacity: 1; transition: all 0.5s ease;}
+p { width: 70% ;margin-top: 0.5%;}
+ h2, h3, p, ul, ol, div, img, hr {width: 70%; margin: 0px auto;}
+ .img_apart { width: 40% ; margin-left: 15%; margin-top: 2%; }
+ nav a {font-size: 1vw;}
+ h1 + p{margin-top: 8px; line-height: 32px; font-size: 22px; color: rgba(0, 0, 0, 0.4);}
+ blockquote{ margin-top: 30px; margin-left: 20%; border-left: 1px solid rgb(227, 151, 135); width: 60%; padding: 1%;}
+ .cotainer_img{display: flex; justify-content: flex-start; margin-top: 2%;}
+ .cotainer_img > img{width: 30%; margin-right: 2%; }
