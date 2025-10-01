@@ -1,0 +1,11 @@
+.img_one { width: 30%; margin-left: 35%;} 
+.img_two {width: 30%; margin-left: 53%;}
+.img_three { width: 20%; margin-left: 15%;}
+nav{ overflow-y: scroll; background: #f9f9f9; width: 200px; position: fixed;  top: 45px; left: 5px; padding: 10px; box-sizing: border-box; opacity: 0.3; transition: all 0.5s ease; height: 90vh;  }
+nav:hover{opacity: 1; transition: all 0.5s ease;}
+h1 { font-size: 90px;}
+h2 { font-size: 50px;}
+h3 { font-size: 30px;}
+h2 + h3 {line-height: 50px;}
+h3 { line-height: 50px;;}
+h2 {line-height: 50px;}

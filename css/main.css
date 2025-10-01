@@ -2,3 +2,39 @@ h1{color: rgb(7, 7, 7); font-size: 3vw; font-weight: 30;}
         .text1 {text-decoration: underline; font-size: 4vw; transition: all 3s linear;}
         .text1:hover { font-size: 8vw; color: rgb(187, 206, 174); transition: all 3s linear;}
         #link_a{text-decoration: none;font-size: 40px; color: blanchedalmond; width: 100%;}
+        .section_main { 
+                width: 100%;
+                background: rgb(244, 222, 195);
+                display: flex;
+                /* display: flex - обьединяет div */
+}
+
+.main_div {
+width: 50%;
+
+}
+
+.main_div > img {
+         /* width: 100%; */
+margin-left: 15%;
+margin-top: 4%;
+}
+
+
+.main_div > p{
+width: 50%;
+
+}
+
+.test > div {
+width: 30%;
+height: 300px;
+background: rgb(77, 132, 111);
+margin: 1%;
+font-size: 4vw;
+text-align: center;
+line-height: 300px;
+color: brown;
+
+
+}
