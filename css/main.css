@@ -1,3 +1,63 @@
+body {
+        width: 100%;
+        overflow-x: hidden;
+
+
+}
+
+.main_about{
+width: 80%;
+color: rgb(129, 134, 134);
+margin: 0% auto;
+
+}
+
+.div_for_text h1{
+        text-align: left;
+        margin-left: 0%;
+        font-size: 50px;
+
+}
+
+.div_for_text p {
+text-align: left;
+margin-left: 0%;
+font-size: 20px;
+
+}
+
+.div_for_text, .div_for_img {
+
+        width: 50%;
+
+
+}
+
+.img_in_div {
+
+width: 180%;
+
+}
+
+
+
+.block1 {
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
 h1{color: rgb(7, 7, 7); font-size: 3vw; font-weight: 30;}
         .text1 {text-decoration: underline; font-size: 4vw; transition: all 3s linear;}
         .text1:hover { font-size: 8vw; color: rgb(187, 206, 174); transition: all 3s linear;}
@@ -38,3 +98,7 @@ color: brown;
 
 
 }
+.header_img{
+        width: 4%;
+}
+.main_ta_samaya_img { width: 1%;}
